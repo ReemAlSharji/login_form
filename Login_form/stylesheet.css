@@ -1,0 +1,32 @@
+*{
+font-family: sans-serif;
+font-size: 14.5px;}
+body{
+    height: 100vh;
+    width: 100%;
+}
+.btn-primary {
+    background-color: rgb(149, 17, 189) !important;
+}
+.btn-primary:hover {
+    background-color: rgb(196, 100, 225) !important;
+}
+
+h1 {
+    color: rgb(185, 102, 210) !important;
+
+
+}
+
+
+form {
+    background-color: rgba(176, 176, 176, 0.059) !important;
+
+}
+
+
+.mystyle {
+    width: 100%;
+    position: absolute;
+    text-align: center;
+}
